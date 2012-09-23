@@ -1,0 +1,32 @@
+{
+	"auto_upgrade_last_run": 1348437608,
+	"installed_packages":
+	[
+		"Alignment",
+		"BracketHighlighter",
+		"Can I Use",
+		"ChangeQuotes",
+		"DetectSyntax",
+		"Gist",
+		"Git",
+		"Inc-Dec-Value",
+		"JsFormat",
+		"LESS",
+		"Modific",
+		"Package Control",
+		"PhpBeautifier",
+		"PhpDox",
+		"PlainTasks",
+		"Random Message",
+		"SideBarEnhancements",
+		"SideBarGit",
+		"SublimeCodeIntel",
+		"SyncedSideBar",
+		"Table Editor",
+		"Themr",
+		"TidyTabs",
+		"WheelChanger",
+		"Whitespaces",
+		"ZenCoding"
+	]
+}
